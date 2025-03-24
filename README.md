@@ -3,7 +3,7 @@ The **2024 CSU Systemwide Business Analytics Competition** focuses on leveraging
 Participants are tasked with building Predictive models to classify whether a loan will be paid in full (P I F) or charged off (CHGOFF). 
 
 <p align="center">
-  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/Picture1.png" width="500">
+  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/Picture1.png" width="400">
 </p>
 
 The problem also incorporates real-world constraints such as:
@@ -73,8 +73,8 @@ The **Random Forest model** emerged as the best performer across all considered 
 The Random Forest model was strategically used to prioritize loan applications, ranking them from least risky to most risky based on the estimated probabilities. This approach was pivotal in maximizing financial outcomes.
 
 <p align="left">
-  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/final-gains%20chart.png" width="270">
-  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/final-lift%20chart.png" width="300">
+  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/final-gains%20chart.png" width="370">
+  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/final-lift%20chart.png" width="400">
 </p>
 
 ### Key Results:
