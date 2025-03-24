@@ -2,6 +2,10 @@
 The **2024 CSU Systemwide Business Analytics Competition** focuses on leveraging the SBA National Dataset, originally published by Li, Mickel, and Taylor (2018). This dataset provides historical data from the U.S. Small Business Administration (SBA) to analyze and predict the probability of loan default.
 Participants are tasked with building Predictive models to classify whether a loan will be paid in full (P I F) or charged off (CHGOFF). 
 
+<p align="center">
+  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/Picture1.png" width="500">
+</p>
+
 The problem also incorporates real-world constraints such as:
 - **Imbalanced Classes:** A higher proportion of loans are classified as “P I F” compared to CHGOFF.
 - **Cost-Sensitive Decisions:** Misclassifying a high-risk loan as low-risk incurs a much greater cost than the benefit of correctly identifying a low-risk loan.
@@ -67,6 +71,11 @@ The **Random Forest model** emerged as the best performer across all considered 
 ## Profit Optimization by Random Forest Model
 
 The Random Forest model was strategically used to prioritize loan applications, ranking them from least risky to most risky based on the estimated probabilities. This approach was pivotal in maximizing financial outcomes.
+
+<p align="left">
+  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/final-gains%20chart.png" width="270">
+  <img src="https://github.com/sindhu28ss/SBA-Loan-Default-Prediction/blob/main/Images/final-lift%20chart.png" width="300">
+</p>
 
 ### Key Results:
 - **Maximum Net Profit Achieved**: $1.59 billion was realized by approving 147,072 loans.
