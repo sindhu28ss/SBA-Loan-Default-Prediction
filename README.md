@@ -24,7 +24,7 @@ The problem also incorporates real-world constraints such as:
 **4.	Provide Business Insights:** Help banks make data-driven decisions on loan approvals.
 
 ## Data Overview
-- The SBA National Dataset - https://drive.google.com/file/d/1LGKdxoDwP_jypAnB_o7HKJheoXpTS9qv/view comprises 899,164 rows and 27 columns.
+- The [SBA National Dataset](https://drive.google.com/file/d/1LGKdxoDwP_jypAnB_o7HKJheoXpTS9qv/view) comprises 899,164 rows and 27 columns.
 - Target Variable (MIS_Status): Indicates whether a loan was Paid in Full (P I F) or Charged Off (CHGOFF).
 - Predictor Variables: A mix of numerical and categorical features, including loan terms, business characteristics, and loan performance metrics.
 
