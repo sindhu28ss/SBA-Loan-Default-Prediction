@@ -1,4 +1,9 @@
-# SBA-Loan-Default-Prediction
+# 🏆 SBA-Loan-Default-Prediction: Winner – 2024 CSU Systemwide Business Analytics Competition 
+This project was developed as part of the 2024 CSU Systemwide Business Analytics Competition, where our team secured **first place in the graduate category** - 
+[Official Competition Announcement](https://www.csus.edu/college/business-administration/centers-programs/announcements.html)
+
+
+Our winning solution combined robust feature engineering, advanced machine learning models, and business-driven evaluation to achieve strong predictive performance and interpretability.
 The **2024 CSU Systemwide Business Analytics Competition** focuses on leveraging the SBA National Dataset, originally published by Li, Mickel, and Taylor (2018). This dataset provides historical data from the U.S. Small Business Administration (SBA) to analyze and predict the probability of loan default.
 Participants are tasked with building Predictive models to classify whether a loan will be paid in full (P I F) or charged off (CHGOFF). 
 
