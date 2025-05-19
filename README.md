@@ -1,4 +1,4 @@
-# 🏆 SBA-Loan-Default-Prediction: Winner – 2024 CSU Systemwide Business Analytics Competition 
+# 🏆 Predictive Modeling on Loan Approvals: Winner – 2024 CSU Systemwide Business Analytics Competition 
 This project was developed as part of the 2024 CSU Systemwide Business Analytics Competition, where our team secured **first place in the graduate category** - 
 [Official Competition Announcement](https://www.csus.edu/college/business-administration/centers-programs/announcements.html)
 
